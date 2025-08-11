@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Advanced Skills Poster</title>
+  <style>
+    body {
+      margin: 0;
+      background-color: #fbeee8;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+  <img src="ac39f87f-b1d6-42b2-9565-177d756e2865.png" alt="Advanced Skills Poster">
+</body>
+</html>
